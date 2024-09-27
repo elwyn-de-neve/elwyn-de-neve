@@ -8,7 +8,7 @@ Here are some of the courses I teach:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,figma)](https://skillicons.dev)
 
 
-##Tech Stack:
+## Personal Tech Stack:
 
 <table>
 <tr>
