@@ -50,7 +50,7 @@ Here are some of the courses I teach:
   Een TypeScript-bibliotheek voor het valideren van schema's en gegevens.
   
   ![Auth](https://skillicons.dev/icons?i=auth)  
-  **Auth.js**  
+  **NextAuth.js**  
   Een bibliotheek voor het beheren van authenticatie en sessies in webapplicaties.
   
   ![Vercel](https://skillicons.dev/icons?i=vercel)  
