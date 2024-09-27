@@ -14,47 +14,48 @@ Here are some of the courses I teach:
 <tr>
 <td valign="top" width="50%">
 
-![React](https://skillicons.dev/icons?i=react)&nbsp;
-**React 19**  
-Het populairste frontend framework waarmee je gebruikersinterfaces uit componenten opbouwt.
+  ![React](https://skillicons.dev/icons?i=react)  
+  **React 19**  
+  Een JavaScript-bibliotheek voor het bouwen van gebruikersinterfaces via componenten.
+  
+  ![Nextdotjs](https://skillicons.dev/icons?i=nextjs)  
+  **Next.js 15**  
+  Een React-framework voor het ontwikkelen van zowel server-side als static webapplicaties.
+  
+  ![Typescript](https://skillicons.dev/icons?i=ts)  
+  **TypeScript**  
+  Een superset van JavaScript die type-safety toevoegt om de betrouwbaarheid van code te verhogen.
+  
+  ![Tailwind](https://skillicons.dev/icons?i=tailwind)  
+  **Tailwind**  
+  Een CSS-framework dat een utility-first benadering gebruikt voor snellere styling.
+  
+  ![Shadcn](https://skillicons.dev/icons?i=custom)  
+  **Shadcn/UI**  
+  Een bibliotheek voor herbruikbare componenten die eenvoudig in projecten zijn te integreren.
 
-![Nextdotjs](https://skillicons.dev/icons?i=nextjs)&nbsp;
-**Next.js 15**  
-Het meest populaire full-stack React-framework voor hoogwaardige webapplicaties.
-
-![Typescript](https://skillicons.dev/icons?i=ts)&nbsp;
-**TypeScript**  
-Type-safe JavaScript als industriestandaard voor betrouwbaarder code.
-
-![Tailwind](https://skillicons.dev/icons?i=tailwind)&nbsp;
-**Tailwind**  
-Industriestandaard voor CSS-styling, biedt een utility-first framework.
-
-![Shadcn](https://skillicons.dev/icons?i=custom)&nbsp;
-**Shadcn/UI**  
-Bibliotheek met herbruikbare componenten die naadloos in je apps integreren.
 </td>
 <td valign="top" width="50%">
 
-![Prisma](https://skillicons.dev/icons?i=prisma)&nbsp;
-**Prisma**  
-ORM van de volgende generatie voor TypeScript, optimaliseert de interactie met databases.
-
-![Supabase](https://skillicons.dev/icons?i=supabase)&nbsp;
-**Supabase**  
-Serverless Postgres als een open-source alternatief voor Firebase.
-
-![Zod](https://skillicons.dev/icons?i=zod)&nbsp;
-**Zod**  
-Veiligere TypeScript-gebaseerde schema-validatie.
-
-![Auth](https://skillicons.dev/icons?i=auth)&nbsp;
-**Auth.js**  
-Authenticatie zonder vendor lock-in, vereenvoudigt sessiebeheer.
-
-![Vercel](https://skillicons.dev/icons?i=vercel)&nbsp;
-**Vercel**  
-Optimaal platform voor het implementeren van Next.js-projecten.
+  ![Prisma](https://skillicons.dev/icons?i=prisma)  
+  **Prisma**  
+  Een ORM voor TypeScript en JavaScript die de databasetoegang vereenvoudigt.
+  
+  ![Supabase](https://skillicons.dev/icons?i=supabase)  
+  **Supabase**  
+  Een open-source platform dat serverless PostgreSQL databases biedt.
+  
+  ![Zod](https://skillicons.dev/icons?i=zod)  
+  **Zod**  
+  Een TypeScript-bibliotheek voor het valideren van schema's en gegevens.
+  
+  ![Auth](https://skillicons.dev/icons?i=auth)  
+  **Auth.js**  
+  Een bibliotheek voor het beheren van authenticatie en sessies in webapplicaties.
+  
+  ![Vercel](https://skillicons.dev/icons?i=vercel)  
+  **Vercel**  
+  Een platform voor het ontwikkelen en uitrollen van webprojecten, vooral effectief voor Next.js applicaties.
 
 </td>
 </tr>
