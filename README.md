@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/638c68dd-d9a6-4b80-ae6f-968c3e984fac)### Hi there 👋
+### Hi there 👋
 
 I'm Elwyn, a frontend teacher at [Novi Hogenschool](https://www.novi.nl/) in Utrecht. 
 
